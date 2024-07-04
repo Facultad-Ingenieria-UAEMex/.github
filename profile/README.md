@@ -1,4 +1,14 @@
-## Hi there 👋
+# ¡Holaaa! 👋
+
+Es un placer saludarte, esta es una comunidad para impulsar las contribuciones a los proyectos de open-source. Esta comunidad, sobretodo irá en impulsar el conocimiento de conceptos básicos de programación en distintos lenguajes de programación, frameworks y tecnologías. No hay un fin de lucro, sino el de compartir conocimiento e impulsar la experiencia sobre proyectos de tipo open-source.
+
+### ¿Sobre qué es está organización?
+
+### Guías para contribuir
+
+### Recursos 
+
+
 
 <!--
 
